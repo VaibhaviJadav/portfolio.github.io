@@ -55,9 +55,9 @@ Impact:
 
 - Course Name: Algorithms Lab 
 - Course Code: 24ECAP202  
-- Name: H B Samruddi 
-- SRN: 02FE23BCI052  
-- Course Instructor: Priyanka Gavade  
+- Name: Vaibhavi Jadhav 
+- SRN: 02FE23BCI049 
+- Course Instructor:Dr. Priyanka Gavade  
 - University: KLE TECHNOLOGICAL UNIVERSITY
 - Topic: Pollution-Free City
 
